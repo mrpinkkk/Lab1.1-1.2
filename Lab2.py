@@ -3,8 +3,8 @@ from alg import signal, get_m, get_D, get_R, get_R_by_gen, r_tau
 
 
 n = 10
-omega = 1100
-N = 256
+omega = 1200
+N = 64
 
 range_min = 0
 range_max = 1
